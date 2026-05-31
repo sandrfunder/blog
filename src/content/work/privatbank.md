@@ -1,8 +1,8 @@
 ---
-company: "PJSC Privatbank"
+company: "Privatbank PJSC"
 role: "Financial Manager"
 dateStart: "03/16/2010"
-dateEnd: "07/01/2013"
+dateEnd: "07/01/2013,"
 ---
 
-Lorem ipsum dolor, sit amet consectetur adipisicing elit. Iure illo neque tempora, voluptatem est quaerat voluptas praesentium ipsa dolorem dignissimos nulla ratione distinctio quae maiores eligendi nostrum? Quibusdam, debitis voluptatum.
+I drove branch growth by connecting retail clients with the right financial products. My daily focus was selling competitive credit lines, credit cards, and deposit structures, alongside tailoring insurance plans to secure our clients' assets.
