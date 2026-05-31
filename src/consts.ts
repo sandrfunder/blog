@@ -1,7 +1,7 @@
 import type { Site, Metadata, Socials } from "@types";
 
 export const SITE: Site = {
-  NAME: "Astro Nano",
+  NAME: "Alex Kshutashvili",
   EMAIL: "markhorn.dev@gmail.com",
   NUM_POSTS_ON_HOMEPAGE: 3,
   NUM_WORKS_ON_HOMEPAGE: 2,
@@ -10,12 +10,12 @@ export const SITE: Site = {
 
 export const HOME: Metadata = {
   TITLE: "Home",
-  DESCRIPTION: "Astro Nano is a minimal and lightweight blog and portfolio.",
+  DESCRIPTION: "I am a minimal, SEO-friendly, accessible portfolio and blog for developers. I am an even more lightweight version of my popular theme Astro Sphere. I have Lighthouse scores of 100 across the board for performance, accessibility, best practices and SEO.",
 };
 
 export const BLOG: Metadata = {
   TITLE: "Blog",
-  DESCRIPTION: "A collection of articles on topics I am passionate about.",
+  DESCRIPTION: "10+ years fintech experience. Founded Finceh LLC (2018) and co-founded Neofin (2022), a no-code lending automation platform. Built solutions for banks like Unexbank and MTB Bank. Expert in launching 22+ fintech projects.",
 };
 
 export const WORK: Metadata = {

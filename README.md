@@ -1,6 +1,6 @@
-![Astro Nano](_astro_nano.png)
+![Alex Kshutashvili](_astro_nano.png)
 
-Astro Nano is a static, minimalist, lightweight, lightning fast portfolio and blog theme.
+Alex Kshutashvili is a static, minimalist, lightweight, lightning fast portfolio and blog theme.
 
 Built with Astro, Tailwind and Typescript, an no frameworks.
 
