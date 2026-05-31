@@ -9,7 +9,7 @@ export const SITE: Site = {
 };
 
 export const HOME: Metadata = {
-  TITLE: "Home | Alex Kshutasvili",
+  TITLE: "Home",
   DESCRIPTION: "The home page of Alex Kshutashvili: entrepreneur, minimalist, human.",
 };
 
